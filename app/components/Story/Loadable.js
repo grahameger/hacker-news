@@ -1,6 +1,6 @@
 /**
  *
- * Asynchronously loads the component for StoryLink
+ * Asynchronously loads the component for Story
  *
  */
 
