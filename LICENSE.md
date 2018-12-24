@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2018 Graham Robert Eger
 Copyright (c) 2018 Maximilian Stoiber
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
